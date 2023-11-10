@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://keesiemeijer.github.io/stoerke/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://keesiemeijer.github.io/stoerke/";
+		</script>
+
+		<p>You are being redirected to <a href="https://keesiemeijer.github.io/stoerke/">https://keesiemeijer.github.io/stoerke/</a></p>
+	</body>
+</html>
